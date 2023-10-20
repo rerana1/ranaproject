@@ -26,4 +26,13 @@ https://cdn2.aliflailabd.com/discovery/index.m3u8
 http://stream.medialink24.net:9191/jalsha-movies/index.m3u8
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/bn/thumb/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png/150px-%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png”group-title=”Bangla”, Colours Bangla Cinema
 http://stream.medialink24.net:9191/colors-bangla-cinema/index.m3u8
-#EXTINF:-1 tvg-logo=”
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/bn/thumb/c/c1/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg/220px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg”group-title=”Bangla”, Zee Bangla HD
+http://tv.elaach.com/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/File:Crystal128-tv.svg”group-title=”Bangla”, All Time Movies
+http://tv.elaach.com/hls/9xm.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/220px-Bangladesh_Television_Logo.svg.png”group-title=”Bangla”, BTV HD
+https://cdn8.aliflailabd.com/BTV/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png”group-title=”Bangla”, GTV
+http://stream.midiplexhd.com:1936/live/sky_4/chunklist_w312831582_tkcmFpeWFudG9rZW5lbmR0aW1lPTE2OTc4MjgyNjAmcmFpeWFudG9rZW5zdGFydHRpbWU9MTY5NzgyMTI2MCZyYWl5YW50b2tlbmhhc2g9cmMzTkZZNmRkdE10T2tZMmV5LTItcmRyNGZISVM5UWoxTUZLdEFGUzNBQT0=.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/240px-BeIN_Sports_logo_%282017%29.png”group-title=”Football”,beIN Sports
+http://103.180.112.66:8087/test/index.fmp4.m3u8
